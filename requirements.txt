@@ -7,3 +7,4 @@ nbstripout
 kagglehub
 matplotlib
 seaborn
+scikit-learn
