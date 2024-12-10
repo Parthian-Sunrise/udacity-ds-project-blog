@@ -4,7 +4,7 @@ This repository contains the code and analysis for the blog post project of Udac
 
 ## Project Overview
 
-The goal of this project is to apply data science techniques to a chosen dataset, derive meaningful answers to a set of 3-5 questions, and present them in a clear and engaging manner. The analysis is documented in a Jupyter Notebook, and the findings are summarised in a blog post (LINK).
+The goal of this project is to apply data science techniques to a chosen dataset, derive meaningful answers to a set of 3-5 questions, and present them in a clear and engaging manner. The analysis is documented in a Jupyter Notebook, and the findings are summarised in a blog post on [Medium](https://medium.com/@judeking_21019/a-look-at-the-tokyo-2023-2024-airbnb-datasets-4abe53b6c0eb).
 
 ## Repository Structure
 
