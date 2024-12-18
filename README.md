@@ -44,11 +44,11 @@ I had 4 questions I sought to answer, I will provide a short summary for each of
 
 - `Neighbourhood Impact:` Prices vary dramatically between neighbourhoods, with some, like Arakawa, significantly pricier than others like Higashiyamato. However, within each neighbourhood, there’s substantial variability, suggesting other factors also play a key role in determining price.
 
-`Hanami’s Influence:` The cherry blossom season does indeed affect Airbnb pricing, with a detectable increase in many neighbourhoods during the blooming period. This aligns with the expected surge in demand as both locals and tourists flock to large cities like Tokyo to experience this idiosyncratic experience.
+- `Hanami’s Influence:` The cherry blossom season does indeed affect Airbnb pricing, with a detectable increase in many neighbourhoods during the blooming period. This aligns with the expected surge in demand as both locals and tourists flock to large cities like Tokyo to experience this idiosyncratic experience.
 
-`Predicting Price:` Using a combination of features like property type and host characteristics, we achieved a reasonable error margin (~¥10,000 or £50) for price predictions. This suggests that with further refinement, predictive models could be valuable for pricing strategies, particularly if more granular data was available for things such as neighbourhood.
+- `Predicting Price:` Using a combination of features like property type and host characteristics, we achieved a reasonable error margin (~¥10,000 or £50) for price predictions. This suggests that with further refinement, predictive models could be valuable for pricing strategies, particularly if more granular data was available for things such as neighbourhood.
 
-`Predicting Superhost Status:` Host-related features proved critical for determining superhost status, achieving a 70% accuracy rate with our basic model. This highlights some of the things someone might want to focus on if they wanted to achieve the status themselves. With more features perhaps an even better model could be developed!
+- `Predicting Superhost Status:` Host-related features proved critical for determining superhost status, achieving a 70% accuracy rate with our basic model. This highlights some of the things someone might want to focus on if they wanted to achieve the status themselves. With more features perhaps an even better model could be developed!
 
 ## Getting Started
 
